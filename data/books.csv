@@ -1,0 +1,101 @@
+book_id,title,author,genre,description,copies
+1,Introduction to Algorithms,"Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",Computer Science,"Comprehensive textbook on algorithm design and analysis: sorting, graph algorithms, dynamic programming, greedy methods and computational complexity.",3
+2,Artificial Intelligence: A Modern Approach,"Stuart Russell, Peter Norvig",Computer Science,"Standard textbook on intelligent agents, search, logic, planning, probabilistic reasoning, machine learning and natural language processing.",3
+3,Python Crash Course,Eric Matthes,Computer Science,"Hands-on introduction to Python programming for beginners, with projects including a game, data visualisation and a simple web application.",4
+4,Clean Code,Robert C. Martin,Computer Science,"Practical guide to writing readable, maintainable software: naming, functions, comments, testing and refactoring.",2
+5,Database System Concepts,"Abraham Silberschatz, Henry Korth, S. Sudarshan",Computer Science,"Core textbook on relational databases, SQL, transactions, indexing and database design.",2
+6,Computer Networking: A Top-Down Approach,"James Kurose, Keith Ross",Computer Science,"Explains computer networks layer by layer, from web applications and HTTP down to TCP, IP routing and wireless links.",5
+7,Operating System Concepts,"Abraham Silberschatz, Peter Galvin, Greg Gagne",Computer Science,"Covers processes, threads, scheduling, memory management, file systems and operating system security.",2
+8,"Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow",Aurelien Geron,Computer Science,"Practical machine learning with Python: regression, classification, decision trees, neural networks and deep learning with worked code.",3
+9,Deep Learning,"Ian Goodfellow, Yoshua Bengio, Aaron Courville",Computer Science,"Theory of neural networks, optimisation, convolutional and recurrent networks and generative models.",5
+10,The Pragmatic Programmer,"Andrew Hunt, David Thomas",Computer Science,"Advice for software developers on craftsmanship, debugging, automation, version control and career growth.",2
+11,Calculus: Early Transcendentals,James Stewart,Mathematics & Statistics,"Limits, derivatives, integrals, sequences and series, and multivariable calculus with many worked examples.",5
+12,Linear Algebra and Its Applications,David C. Lay,Mathematics & Statistics,"Vectors, matrices, eigenvalues and vector spaces with applications to computing and engineering.",3
+13,Discrete Mathematics and Its Applications,Kenneth H. Rosen,Mathematics & Statistics,"Logic, sets, graph theory, combinatorics and proofs: the mathematics behind computer science.",2
+14,A First Course in Probability,Sheldon Ross,Mathematics & Statistics,"Probability theory: random variables, distributions, expectation and limit theorems, with many problems.",2
+15,An Introduction to Statistical Learning,"Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani",Mathematics & Statistics,"Accessible introduction to statistical modelling and machine learning: regression, classification, resampling and tree methods.",4
+16,Advanced Engineering Mathematics,Erwin Kreyszig,Mathematics & Statistics,"Differential equations, Fourier analysis, Laplace transforms, vector calculus and numerical methods for engineers.",4
+17,Statistics,"David Freedman, Robert Pisani, Roger Purves",Mathematics & Statistics,"Conceptual introduction to statistics: data, correlation, sampling, hypothesis testing and common errors.",2
+18,Numerical Analysis,"Richard L. Burden, J. Douglas Faires",Mathematics & Statistics,"Numerical methods for root finding, interpolation, integration and solving differential equations.",3
+19,Engineering Mechanics: Statics,R. C. Hibbeler,Engineering,"Forces, equilibrium, trusses, friction and moments of inertia for civil and mechanical engineering students.",2
+20,Fundamentals of Electric Circuits,"Charles Alexander, Matthew Sadiku",Engineering,"Circuit analysis: resistors, capacitors, inductors, AC circuits, transient response and power.",5
+21,Fluid Mechanics,Frank M. White,Engineering,"Fluid statics, flow in pipes, boundary layers, pumps and turbines.",4
+22,Digital Design,M. Morris Mano,Engineering,"Logic gates, Boolean algebra, combinational and sequential circuits, flip-flops and computer hardware design.",2
+23,Microelectronic Circuits,"Adel Sedra, Kenneth Smith",Engineering,"Diodes, transistors, amplifiers and integrated circuit design.",5
+24,Control Systems Engineering,Norman S. Nise,Engineering,"Feedback control, transfer functions, stability analysis, root locus and controller design.",2
+25,Thermodynamics: An Engineering Approach,"Yunus Cengel, Michael Boles",Engineering,"Energy, entropy, heat engines, refrigeration cycles and power plant analysis.",3
+26,Mechanics of Materials,"Ferdinand Beer, E. Russell Johnston",Engineering,"Stress, strain, beam bending, torsion and column buckling in structural design.",5
+27,Principles of Economics,N. Gregory Mankiw,Business & Economics,"Introduction to microeconomics and macroeconomics: supply and demand, markets, inflation, unemployment and policy.",2
+28,Principles of Marketing,"Philip Kotler, Gary Armstrong",Business & Economics,"Marketing strategy, consumer behaviour, branding, pricing, promotion and digital marketing.",5
+29,Financial Accounting,"Jerry Weygandt, Donald Kieso, Paul Kimmel",Business & Economics,"Recording transactions, financial statements, balance sheets and interpreting company accounts.",5
+30,Good to Great,Jim Collins,Business & Economics,"Research on why some companies achieve lasting success: leadership, discipline and focus.",4
+31,The Lean Startup,Eric Ries,Business & Economics,"Building new businesses through experiments, minimum viable products and rapid learning from customers.",2
+32,"Thinking, Fast and Slow",Daniel Kahneman,Business & Economics,"Behavioural science of human judgement: biases, intuition, risk and decision making under uncertainty.",3
+33,Why Nations Fail,"Daron Acemoglu, James Robinson",Business & Economics,Argues that political and economic institutions explain why some countries prosper while others stay poor.,2
+34,Poor Economics,"Abhijit Banerjee, Esther Duflo",Business & Economics,"Evidence from field experiments on how poor households make decisions about health, education, savings and enterprise.",5
+35,Microeconomics,"Robert Pindyck, Daniel Rubinfeld",Business & Economics,"Consumer theory, production costs, market structures, game theory and price competition.",3
+36,The Intelligent Investor,Benjamin Graham,Business & Economics,"Classic guide to value investing, risk management and long-term financial discipline.",3
+37,Gray's Anatomy for Students,"Richard Drake, A. Wayne Vogl, Adam Mitchell",Health & Medicine,Illustrated human anatomy organised by body region with clinical correlations.,4
+38,Guyton and Hall Textbook of Medical Physiology,John E. Hall,Health & Medicine,"How the human body works: the heart, kidneys, nervous system, hormones and respiration.",3
+39,Robbins Basic Pathology,"Vinay Kumar, Abul Abbas, Jon Aster",Health & Medicine,"Causes and mechanisms of disease: inflammation, cancer, infection and organ pathology.",5
+40,Where There Is No Doctor,David Werner,Health & Medicine,"Village health care handbook on common illnesses, first aid, nutrition and hygiene where clinics are far away.",2
+41,Basic Epidemiology,"R. Bonita, R. Beaglehole, T. Kjellstrom",Health & Medicine,"Public health methods: measuring disease, study design, screening, outbreaks and prevention.",5
+42,The Emperor of All Maladies,Siddhartha Mukherjee,Health & Medicine,"A history of cancer, from ancient descriptions to modern treatment and research.",3
+43,Medical Microbiology,"Patrick Murray, Ken Rosenthal, Michael Pfaller",Health & Medicine,"Bacteria, viruses, fungi and parasites that cause infection, with diagnosis and treatment.",5
+44,Harrison's Principles of Internal Medicine,J. Larry Jameson et al.,Health & Medicine,Diagnosis and management of disease across all organ systems in internal medicine.,3
+45,"The Constitution of Kenya, 2010",Republic of Kenya,Law & Governance,"Supreme law of Kenya: Bill of Rights, devolution, the judiciary, the executive and public participation.",2
+46,Contract Law,Ewan McKendrick,Law & Governance,"Formation of contracts, terms, misrepresentation, breach, remedies and damages.",5
+47,Textbook on Criminal Law,Michael J. Allen,Law & Governance,"Elements of criminal liability, homicide, theft, defences and criminal procedure.",5
+48,Administrative Law,"William Wade, Christopher Forsyth",Law & Governance,"Judicial review of government action, natural justice, public authorities and legal remedies.",3
+49,Elements of Land Law,"Kevin Gray, Susan Francis Gray",Law & Governance,"Property rights in land: ownership, leases, easements, mortgages and registration.",3
+50,International Law,Malcolm N. Shaw,Law & Governance,"Treaties, state sovereignty, jurisdiction, human rights and the settlement of international disputes.",2
+51,The Concept of Law,H. L. A. Hart,Law & Governance,"Classic work of legal philosophy on rules, authority, morality and what makes law valid.",5
+52,International Human Rights Law,"Daniel Moeckli, Sangeeta Shah, Sandesh Sivakumaran",Law & Governance,"Human rights treaties, enforcement bodies, civil and political rights, and economic and social rights.",2
+53,Things Fall Apart,Chinua Achebe,African Literature,A proud Igbo wrestling champion faces the arrival of colonial rule and Christian missionaries in a Nigerian village.,5
+54,A Grain of Wheat,Ngugi wa Thiong'o,African Literature,"On the eve of Kenya's independence villagers confront betrayal, guilt and the legacy of the Mau Mau struggle.",2
+55,"Weep Not, Child",Ngugi wa Thiong'o,African Literature,A Kenyan boy's hope for education is tested by land loss and the Emergency years.,5
+56,Petals of Blood,Ngugi wa Thiong'o,African Literature,Four people in a small Kenyan town are drawn into a murder investigation and a story of post-independence corruption.,3
+57,Half of a Yellow Sun,Chimamanda Ngozi Adichie,African Literature,Lives of three people intertwine during the Nigerian civil war and the Biafran secession.,4
+58,Americanah,Chimamanda Ngozi Adichie,African Literature,"A Nigerian woman's experience of love, race and identity as she moves between Lagos and the United States.",5
+59,Song of Lawino,Okot p'Bitek,African Literature,Long poem in which an Acholi wife defends her traditional culture against her husband's embrace of Western ways.,4
+60,Dust,Yvonne Adhiambo Owuor,African Literature,"A Kenyan family haunted by political violence and a lost son, set in the dry landscapes of the north.",3
+61,Decolonising the Mind,Ngugi wa Thiong'o,African Literature,Essays arguing for African languages in literature and education as part of cultural freedom.,4
+62,The River Between,Ngugi wa Thiong'o,African Literature,"Two ridges in colonial Kenya are divided over circumcision, Christianity and Gikuyu tradition.",5
+63,Nineteen Eighty-Four,George Orwell,World Fiction,"Dystopian novel of total surveillance, propaganda and a man who dares to think freely.",4
+64,Animal Farm,George Orwell,World Fiction,"Farm animals overthrow their owner, then watch the revolution turn into tyranny: a satire of political power.",3
+65,Pride and Prejudice,Jane Austen,World Fiction,"Elizabeth Bennet and Mr Darcy navigate class, family pressure and first impressions in Regency England.",3
+66,To Kill a Mockingbird,Harper Lee,World Fiction,"A lawyer in the American South defends a Black man falsely accused, seen through his daughter's eyes.",3
+67,The Great Gatsby,F. Scott Fitzgerald,World Fiction,A mysterious millionaire chases a lost love in the glittering and hollow Jazz Age.,3
+68,One Hundred Years of Solitude,Gabriel Garcia Marquez,World Fiction,The Buendia family's magical-realist saga across generations in the town of Macondo.,3
+69,The Alchemist,Paulo Coelho,World Fiction,A shepherd boy journeys to Egypt in search of treasure and learns to follow his personal destiny.,2
+70,Crime and Punishment,Fyodor Dostoevsky,World Fiction,A poor student commits a murder and is consumed by guilt in nineteenth-century St Petersburg.,5
+71,The Kite Runner,Khaled Hosseini,World Fiction,"A story of friendship, betrayal and redemption from Kabul to California.",3
+72,The Hobbit,J. R. R. Tolkien,World Fiction,Bilbo Baggins joins dwarves and a wizard on a fantasy quest to reclaim treasure guarded by a dragon.,5
+73,"Guns, Germs, and Steel",Jared Diamond,History & Politics,"Explains how geography, agriculture and disease shaped the rise of civilisations.",4
+74,Sapiens,Yuval Noah Harari,History & Politics,A brief history of humankind from the cognitive revolution to modern capitalism and science.,3
+75,Kenya: A History Since Independence,Charles Hornsby,History & Politics,"Political history of Kenya under Kenyatta, Moi and Kibaki: elections, ethnicity and power.",4
+76,Long Walk to Freedom,Nelson Mandela,History & Politics,"Autobiography of the anti-apartheid leader, from childhood to prison and the presidency.",3
+77,How Europe Underdeveloped Africa,Walter Rodney,History & Politics,Argues that colonial exploitation and trade held back African economic development.,5
+78,Imperial Reckoning,Caroline Elkins,History & Politics,Investigation of British detention camps and the suppression of the Mau Mau rebellion in colonial Kenya.,2
+79,The Wretched of the Earth,Frantz Fanon,History & Politics,"Analysis of colonial violence, liberation struggles and the psychology of decolonisation.",2
+80,Prisoners of Geography,Tim Marshall,History & Politics,"How mountains, rivers and coastlines shape the foreign policy of major world powers.",5
+81,Unbowed,Wangari Maathai,History & Politics,"Memoir of the Nobel Peace Prize winner who founded the Green Belt Movement, planting trees and fighting for democracy in Kenya.",4
+82,A Brief History of Time,Stephen Hawking,Natural Sciences,"Accessible tour of black holes, the Big Bang, space and time.",3
+83,Cosmos,Carl Sagan,Natural Sciences,"Journey through astronomy and the history of science: stars, planets and the search for life.",3
+84,The Selfish Gene,Richard Dawkins,Natural Sciences,"Explains evolution from the gene's point of view: natural selection, altruism and heredity.",3
+85,Silent Spring,Rachel Carson,Natural Sciences,"Landmark book on pesticides, pollution and the damage done to birds and ecosystems.",4
+86,Campbell Biology,Lisa Urry et al.,Natural Sciences,"University biology textbook: cells, genetics, evolution, ecology and plant and animal physiology.",4
+87,Chemistry: The Central Science,"Theodore Brown, H. Eugene LeMay, Bruce Bursten",Natural Sciences,"General chemistry: atoms, bonding, reactions, thermochemistry and equilibrium.",2
+88,University Physics,"Hugh Young, Roger Freedman",Natural Sciences,"Mechanics, waves, electricity, magnetism, optics and modern physics.",2
+89,Organic Chemistry,"Jonathan Clayden, Nick Greeves, Stuart Warren",Natural Sciences,Reaction mechanisms and the structure and synthesis of carbon compounds.,5
+90,The Nature and Properties of Soils,"Nyle Brady, Ray Weil",Natural Sciences,"Soil science for agriculture: fertility, water, nutrients, erosion and land management.",5
+91,The Sixth Extinction,Elizabeth Kolbert,Natural Sciences,Reports on how human activity is driving a mass extinction of species and changing the climate.,3
+92,Atomic Habits,James Clear,Self-Development,"How small daily habits compound into big change, with a practical system for building good routines.",3
+93,Deep Work,Cal Newport,Self-Development,"Why focused, distraction-free study and work produces valuable results, and how to practise it.",3
+94,How to Win Friends and Influence People,Dale Carnegie,Self-Development,"Timeless advice on communication, building relationships and persuading others.",5
+95,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Development,"Principles of personal effectiveness, time management and leadership.",4
+96,Mindset,Carol S. Dweck,Self-Development,"How a growth mindset helps people learn, improve and handle failure.",5
+97,Grit,Angela Duckworth,Self-Development,Why perseverance and passion for long-term goals predict success more than talent.,4
+98,Make It Stick,"Peter Brown, Henry Roediger, Mark McDaniel",Self-Development,"Evidence-based study techniques: retrieval practice, spacing and effective memory for learning.",2
+99,A Mind for Numbers,Barbara Oakley,Self-Development,"How to learn maths and science: study methods for focus, memory and overcoming procrastination.",2
+100,Rich Dad Poor Dad,Robert Kiyosaki,Self-Development,"Personal finance lessons on assets, income, investing and financial independence.",3
